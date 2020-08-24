@@ -1,0 +1,10 @@
+.form{
+    height: 70vh;
+    width: 50%;
+    margin: 5% auto;
+}
+
+.btnFC{
+    position: absolute;
+    right: 25%;
+}
