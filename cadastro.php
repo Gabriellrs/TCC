@@ -26,8 +26,8 @@
                 <label>Nome: </label><input type="text" name="nome" maxlength="40" required autofocus>
                 <label>Email: </label><input type="email" name="email" maxlength="50" required>
                 <label>Senha: </label><input type="password" name="senha" maxlength="20" required>
-                <label>Confirmar Senha: </label><input type="password" name="senha" maxlength="20" required>,<br>
-                <input type="submit" value="Finalizar Cadastro" class="btnFC">
+                <label>Confirmar Senha: </label><input type="password" name="senha2" maxlength="20" required>,<br>
+                <input type="submit" value="Finalizar Cadastro" class="btnFC" name="cadastrar">
             </form>
         </div>           
 

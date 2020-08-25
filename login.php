@@ -15,17 +15,14 @@
                     <a href="index.html" class="button alt">Voltar</a>
 				</nav>
 				<a href="index.html" class="logo">TopCursos</a>
-				<nav class="right">
-					<a href="#" class="button alt">Login</a>
-				</nav>
             </header>
 
         <!-- Form --> 
         <div class="form">
-            <form>
-                <label>Email: </label><input type="text">
-                <label>Senha: </label><input type="password"><br>
-                <button class="btnFC">Entrar</button>
+            <form method="post" action="processaLogin.php">
+                <label>Email: </label><input type="email" name="email" maxlength="50" required autofocus>
+                <label>Senha: </label><input type="password" name="senha" maxlength="20" required><br>
+                <button type="submit" name="logar" class="btnFC">Entrar</button>
             </form>
         </div>           
 

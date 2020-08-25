@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="pt-br">
 	<head>
-		<title>Generic - Intensify by TEMPLATED</title>
+		<title>TopCursos - A melhor plataforma de recomendação de cursos</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -13,10 +13,7 @@
 				<nav class="left">
 					<a href="#menu"><span>Menu</span></a>
 				</nav>
-				<a href="index.html" class="logo">intensify</a>
-				<nav class="right">
-					<a href="#" class="button alt">Log in</a>
-				</nav>
+				<a href="index.html" class="logo">TopCursos</a>
 			</header>
 
 		<!-- Menu -->
