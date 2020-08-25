@@ -5,13 +5,14 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="stylesheet" href="assets/css/main.css" />
-        <link rel="stylesheet" href="assets/css/form.css" />
+		<link rel="stylesheet" href="assets/css/form.css" />
+		<link rel="stylesheet" href="assets/css/responsiveBtn.css" />
 	</head>
 	<body>
 
 		<!-- Header -->
 			<header id="header">
-				<nav class="left">
+				<nav class="left" id="displayNone2">
                     <a href="index.html" class="button alt">Voltar</a>
 				</nav>
 				<a href="index.html" class="logo">TopCursos</a>
