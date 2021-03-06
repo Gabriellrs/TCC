@@ -1,0 +1,53 @@
+@charset "UTF-8";
+.galeria {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+
+.fotoCategoria{
+    width: 90%;
+}
+
+.fotoCategoria:hover{
+    cursor: pointer;
+    transition: 0.5s;
+    filter: opacity(60%);
+    filter: brightness(40%);
+}
+
+.boxGaleria{
+    text-align: center;
+    margin: 5%;
+}
+
+.boxGaleriaTexto{
+    text-align: center;
+    margin: auto;
+    margin-left: 20%;
+    font-family: "Pacifico", cursive;
+    font-size: 220%;
+    letter-spacing: 2px;
+}
+
+@media screen and (max-width: 980px){
+    .boxGaleriaTexto{
+        font-size: 150%;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .boxGaleriaTexto{
+        font-size: 100%;
+    }
+
+    .galeria {
+        grid-template-columns: 1fr 1fr;
+    
+    }
+}
+
+#emailUser{
+    color: white;
+}
