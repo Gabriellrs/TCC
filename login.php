@@ -6,12 +6,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="stylesheet" href="assets/css/main.css" />
         <link rel="stylesheet" href="assets/css/form.css" />
+		<link rel="stylesheet" href="assets/css/responsiveBtn.css">
 	</head>
 	<body>
 
 		<!-- Header -->
 			<header id="header">
-				<nav class="left">
+				<nav class="left" id="displayNone2">
                     <a href="index.html" class="button alt">Voltar</a>
 				</nav>
 				<a href="index.html" class="logo">TopCursos</a>
@@ -31,11 +32,8 @@
 				<div class="inner">
 					<ul class="actions">
 						<li><span class="icon fa-phone"></span> <a href="#">(000) 000-0000</a></li>
-						<li><span class="icon fa-envelope"></span> <a href="#">emaildaequipe@gmail.com</a></li>
+						<li><span class="icon fa-envelope"></span> <a href="#">familia.topcursos@gmail.com</a></li>
 					</ul>
-				</div>
-				<div class="copyright">
-					&copy; Images <a href="https://unsplash.com">Unsplash</a>.
 				</div>
 			</footer>
 	</body>

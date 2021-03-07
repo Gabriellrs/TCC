@@ -5,7 +5,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$database = "bda_TC";
+$database = "bda_tc";
 $conexao = mysqli_connect($host, $user, $password, $database);
 
 if (!$conexao){

@@ -85,8 +85,8 @@
 						<li><span class="icon fa-envelope"></span> <a href="#">familia.topcursos@gmail.com</a></li>
 					</ul>
 				</div>
-				<div class="copyright">
-					&copy; Images <a href="https://unsplash.com">Unsplash</a>.
+				<div class="copyright2">
+					
 				</div>
 			</footer>
 

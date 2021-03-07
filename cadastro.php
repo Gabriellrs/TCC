@@ -37,11 +37,8 @@
 				<div class="inner">
 					<ul class="actions">
 						<li><span class="icon fa-phone"></span> <a href="#">(000) 000-0000</a></li>
-						<li><span class="icon fa-envelope"></span> <a href="#">emaildaequipe@gmail.com</a></li>
+						<li><span class="icon fa-envelope"></span> <a href="#">familia.topcursos@gmail.com</a></li>
 					</ul>
-				</div>
-				<div class="copyright">
-					&copy; Images <a href="https://unsplash.com">Unsplash</a>.
 				</div>
 			</footer>
 	</body>
