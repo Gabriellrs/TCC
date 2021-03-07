@@ -57,7 +57,7 @@
 							<div class="boxGaleriaTexto"><a href="">Culinária</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><<a href=""><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a href=""><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a href="">Design</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
@@ -85,8 +85,8 @@
 						<li><span class="icon fa-envelope"></span> <a href="#">familia.topcursos@gmail.com</a></li>
 					</ul>
 				</div>
-				<div class="copyright">
-					&copy; Images <a href="https://unsplash.com">Unsplash</a>.
+				<div class="copyright2">
+					
 				</div>
 			</footer>
 

@@ -57,7 +57,7 @@
 							<div class="boxGaleriaTexto"><a href="">Culinária</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><<a href=""><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a href=""><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a href="">Design</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
