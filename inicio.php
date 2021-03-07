@@ -51,18 +51,30 @@
 						<p>Aqui vai um texto falando sobre as categorias</p>
 					</header>
 					<div class="galeria">
-						<div class="boxGaleria"><a href="https://go.hotmart.com/D49035622C"><img src="images/imagemCursoTI.jpg" class="fotoCategoria"></a></div>
-						<div class="boxGaleriaTexto">TI</div>
-						<div class="boxGaleria"><img src="images/imagemCursoGastronomia.jpg" class="fotoCategoria"></div>
-						<div class="boxGaleriaTexto">Gastronomia</div>
-						<div class="boxGaleria"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></div>
-						<div class="boxGaleriaTexto">Inglês</div>
-						<div class="boxGaleria"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></div>
-						<div class="boxGaleriaTexto">Inglês</div>
-						<div class="boxGaleria"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></div>
-						<div class="boxGaleriaTexto">Inglês</div>
-						<div class="boxGaleria"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></div>
-						<div class="boxGaleriaTexto">Inglês</div>
+						<div class="boxGaleriaMargem">
+							<div class="boxGaleria"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></div>
+							<div class="boxGaleriaTexto">TI</div>
+						</div>
+						<div class="boxGaleriaMargem">
+							<div class="boxGaleria"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></div>
+							<div class="boxGaleriaTexto">Culinária</div>
+						</div>
+						<div class="boxGaleriaMargem">
+							<div class="boxGaleria"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></div>
+							<div class="boxGaleriaTexto">Design</div>
+						</div>
+						<div class="boxGaleriaMargem">
+							<div class="boxGaleria"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></div>
+							<div class="boxGaleriaTexto">Negócios</div>
+						</div>
+						<div class="boxGaleriaMargem">
+							<div class="boxGaleria"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></div>
+							<div class="boxGaleriaTexto">Marketing</div>
+						</div>
+						<div class="boxGaleriaMargem">
+							<div class="boxGaleria"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></div>
+							<div class="boxGaleriaTexto">Outros</div>
+						</div>
 					</div>
 					
 				</div>
@@ -71,7 +83,6 @@
 		<!-- Footer -->
 			<footer id="footer">
 				<div class="inner">
-					<h2>Get In Touch</h2>
 					<ul class="actions">
 						<li><span class="icon fa-phone"></span> <a href="#">(000) 000-0000</a></li>
 						<li><span class="icon fa-envelope"></span> <a href="#">familia.topcursos@gmail.com</a></li>
