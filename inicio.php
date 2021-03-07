@@ -49,28 +49,28 @@
 					</header>
 					<div class="galeria">
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="informatica.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="informatica.php"><img src="images/logotipo/imagemCursoTi.jpg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a href="informatica.php">TI</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="culinaria.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="culinaria.php">Culinária</a></div>
+							<div class="boxGaleria"><a target="self_" href="culinaria.php"><img src="images/logotipo/imagemCursoCulinaria.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="culinaria.php">Culinária</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="design.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="design.php">Design</a></div>
+							<div class="boxGaleria"><a target="self_" href="design.php"><img src="images/logotipo/imagemCursoDesign.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="design.php">Design</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="negocios.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="negocios.php">Negócios</a></div>
+							<div class="boxGaleria"><a target="self_" href="negocios.php"><img src="images/logotipo/imagemCursoNegocios.jpeg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="negocios.php">Negócios</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="marketing.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="marketing.php">Marketing</a></div>
+							<div class="boxGaleria"><a target="self_" href="marketing.php"><img src="images/logotipo/imagemCursoEstetica.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="marketing.php">Estética</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="outros.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="outros.php">Outros</a></div>
+							<div class="boxGaleria"><a target="self_" href="outros.php"><img src="images/logotipo/imagemCursoOutros.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="outros.php">Outros</a></div>
 						</div>
 					</div>
 					

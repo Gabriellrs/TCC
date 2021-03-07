@@ -49,28 +49,28 @@
 					</header>
 					<div class="galeria">
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="informatica.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="informatica.php">Curso1</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/X49083867W"><img src="images/negocios/imagemCursoEmpresario.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/X49083867W">Empresários da Moda</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="culinaria.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="culinaria.php">Curso2</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/U49083983K"><img src="images/negocios/imagemCursoBoss.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/U49083983K">Boss Trader</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="design.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="design.php">Curso3</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/E49084043I"><img src="images/negocios/imagemCursoFutCash.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/E49084043I">FutCash Vitalício</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="negocios.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="negocios.php">Curso4</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/Q49084096P"><img src="images/negocios/imagemCursoMestre.jpeg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/Q49084096P">Mestre da OB</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="marketing.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="marketing.php">Curso5</a></div>
+							<div  class="boxGaleria"><a target="self_" href="https://go.hotmart.com/B49084193I"><img src="images/negocios/imagemCursoRobo.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a  target="self_" href="https://go.hotmart.com/B49084193I">Robô de Forex</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="outros.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="outros.php">Curso6</a></div>
+							<div class="boxGaleria"><a href="https://go.hotmart.com/C49084231R"><img src="images/negocios/imagemCursoRoboin.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a href="https://go.hotmart.com/C49084231R">Robô Investidor</a></div>
 						</div>
 					</div>
 					

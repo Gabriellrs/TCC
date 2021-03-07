@@ -49,28 +49,28 @@
 					</header>
 					<div class="galeria">
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="informatica.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="informatica.php">Curso1</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/F49081230G"><img src="images/culinaria/imagemCursoSensei.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/F49081230G">Sensei del Sushi</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="culinaria.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="culinaria.php">Curso2</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/R49082026E"><img src="images/culinaria/imagemCursoPaes.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/R49082026E">Pães Caseiros</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="design.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="design.php">Curso3</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/L49082147U"><img src="images/culinaria/imagemCursoSalgados.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/L49082147U">Salgados Artesanais</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="negocios.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="negocios.php">Curso4</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/Y49082187L"><img src="images/culinaria/imagemCursoCulinaria.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/Y49082187L">Culinária em Casa</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="marketing.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="marketing.php">Curso5</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/W49082255K"><img src="images/culinaria/imagemCursoConfeitaria.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/W49082255K">Confeitaria Vegana</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="outros.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="outros.php">Curso6</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/B49083060O"><img src="images/culinaria/imagemCursoMarmitas.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/B49083060O">Marmitas Saudáveis</a></div>
 						</div>
 					</div>
 					

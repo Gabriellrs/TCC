@@ -49,28 +49,28 @@
 					</header>
 					<div class="galeria">
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="informatica.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="informatica.php">Curso1</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/G49086406T"><img src="images/estetica/imagemCursoBelleza.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/G49086406T">Belleza Facial</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="culinaria.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="culinaria.php">Curso2</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/C49086528M"><img src="images/estetica/imagemCursoCutilagem.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/C49086528M">Cutilagem Perfeita</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="design.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="design.php">Curso3</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/H49086560V"><img src="images/estetica/imagemCursoDepilacao.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/H49086560V">Depilação Profissional</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="negocios.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="negocios.php">Curso4</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/W49086654T"><img src="images/estetica/imagemCursoManicure.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/W49086654T">Manicure e Pedicure</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="marketing.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="marketing.php">Curso5</a></div>
+							<div  class="boxGaleria"><a target="self_" href="https://go.hotmart.com/R49086808S"><img src="images/estetica/imagemCursoLentes.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/R49086808S">Lentes de porcelana</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="outros.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="outros.php">Curso6</a></div>
+							<div  class="boxGaleria"><a target="self_" href="https://go.hotmart.com/T49086845T"><img src="images/estetica/imagemCursoEsteticista.jpg" class="fotoCategoria"></a></div>
+							<div  class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/T49086845T">Esteticista Facial</a></div>
 						</div>
 					</div>
 					

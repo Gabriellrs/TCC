@@ -16,15 +16,18 @@
 }
 
 .boxGaleriaTexto{
-    text-indent: 10%;
+   
     font-family: "Open Sans";
     color: rgb(58, 48, 48);
     font-size: 220%;
     letter-spacing: 2px;
+    text-align: center;
 }
 .boxGaleriaTexto a{
     text-decoration:none;
+    
 }
+
 
 .boxGaleriaMargem{
     margin: 2%;
