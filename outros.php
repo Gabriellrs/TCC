@@ -29,7 +29,7 @@
 			</header>
 
 		<!-- Menu -->
-			<nav id="menu">
+		<nav id="menu">
 				<ul class="links">
 					<li><label id="emailUser"><?php echo $_SESSION['email']; ?></label></li>
 					<li><a href="inicio.php">Home</a></li>
@@ -50,27 +50,27 @@
 					<div class="galeria">
 						<div class="boxGaleriaMargem">
 							<div class="boxGaleria"><a href="informatica.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="informatica.php">TI</a></div>
+							<div class="boxGaleriaTexto"><a href="informatica.php">Curso1</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
 							<div class="boxGaleria"><a href="culinaria.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="culinaria.php">Culinária</a></div>
+							<div class="boxGaleriaTexto"><a href="culinaria.php">Curso2</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
 							<div class="boxGaleria"><a href="design.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="design.php">Design</a></div>
+							<div class="boxGaleriaTexto"><a href="design.php">Curso3</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
 							<div class="boxGaleria"><a href="negocios.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="negocios.php">Negócios</a></div>
+							<div class="boxGaleriaTexto"><a href="negocios.php">Curso4</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
 							<div class="boxGaleria"><a href="marketing.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="marketing.php">Marketing</a></div>
+							<div class="boxGaleriaTexto"><a href="marketing.php">Curso5</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
 							<div class="boxGaleria"><a href="outros.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="outros.php">Outros</a></div>
+							<div class="boxGaleriaTexto"><a href="outros.php">Curso6</a></div>
 						</div>
 					</div>
 					

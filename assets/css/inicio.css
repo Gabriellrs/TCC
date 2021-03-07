@@ -22,6 +22,9 @@
     font-size: 220%;
     letter-spacing: 2px;
 }
+.boxGaleriaTexto a{
+    text-decoration:none;
+}
 
 .boxGaleriaMargem{
     margin: 2%;
@@ -60,6 +63,8 @@
     }
 }
 
+
 #emailUser{
     color: white;
+    
 }
