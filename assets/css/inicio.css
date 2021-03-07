@@ -8,6 +8,7 @@
 
 .fotoCategoria{
     width: 100%;
+    height: 150px;
 }
 
 .boxGaleria{
@@ -16,12 +17,12 @@
 }
 
 .boxGaleriaTexto{
-    text-indent: 10%;
     font-family: "Open Sans";
     color: rgb(58, 48, 48);
     font-size: 220%;
-    letter-spacing: 2px;
+    text-align: center;
 }
+
 .boxGaleriaTexto a{
     text-decoration:none;
 }
@@ -63,6 +64,17 @@
     }
 }
 
+@media screen and (max-width: 800px){
+    .fotoCategoria{
+        height: 120px;
+    }
+}
+
+@media screen and (max-width: 450px){
+    .fotoCategoria{
+        height: 180px;
+    }
+}
 
 #emailUser{
     color: white;
