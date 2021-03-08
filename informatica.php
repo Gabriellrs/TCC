@@ -49,28 +49,28 @@
 					</header>
 					<div class="galeria">
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="informatica.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="informatica.php">Curso1</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/D49035622C"><img src="images/ti/ImagemCursoPython2.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/D49035622C">Python</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="culinaria.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="culinaria.php">Curso2</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/G49080219N"><img src="images/ti/ImagemCursoHtml5.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/G49080219N">HTML5</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="design.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="design.php">Curso3</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/A49080655V"><img src="images/ti/ImagemCursoLogica.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/A49080655V">L. Programação</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="negocios.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="negocios.php">Curso4</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/X49081026J"><img src="images/ti/ImagemCursoFull.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/X49081026J">Full Stack</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="marketing.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="marketing.php">Curso5</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/S49081318S"><img src="images/ti/ImagemCursoNode.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/S49081318S">Node Js</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a href="outros.php"><img src="images/ImagemCursoIngles.jpg" class="fotoCategoria"></a></div>
-							<div class="boxGaleriaTexto"><a href="outros.php">Curso6</a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/A49081508U"><img src="images/ti/ImagemCursoArduino.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/A49081508U">Arduino</a></div>
 						</div>
 					</div>
 					
@@ -84,9 +84,6 @@
 						<li><span class="icon fa-phone"></span> <a href="#">(000) 000-0000</a></li>
 						<li><span class="icon fa-envelope"></span> <a href="#">familia.topcursos@gmail.com</a></li>
 					</ul>
-				</div>
-				<div class="copyright">
-					&copy; Images <a href="https://unsplash.com">Unsplash</a>.
 				</div>
 			</footer>
 
