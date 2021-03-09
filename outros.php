@@ -44,8 +44,8 @@
 			<section id="main" class="wrapper">
 				<div class="inner">
 					<header class="align-center">
-						<h1>Bem Vindo(a)! </h1>
-						<p>Aqui vai um texto falando sobre as categorias</p>
+						<h1>Cursos Variados</h1>
+						<p>Os cursos mais famosos de diversas categorias em um só lugar!</p>
 					</header>
 					<div class="galeria">
 						<div class="boxGaleriaMargem">

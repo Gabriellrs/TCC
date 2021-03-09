@@ -1,6 +1,8 @@
 <?php
+
 	require 'processaLogin.php';
     if(isset($_SESSION['email']) && !empty($_SESSION['email'])){ 
+
 ?>
 
 <!DOCTYPE HTML>
@@ -44,8 +46,8 @@
 			<section id="main" class="wrapper">
 				<div class="inner">
 					<header class="align-center">
-						<h1>Bem Vindo(a)! </h1>
-						<p>Aqui vai um texto falando sobre as categorias</p>
+						<h1>Bem vindo(a) !</h1>
+						<p>Sonhe ambiciosamente! As melhores recomendações de cursos para sua formação profissional.</p>
 					</header>
 					<div class="galeria">
 						<div class="boxGaleriaMargem">
