@@ -55,7 +55,7 @@
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/R49083802T">Design Canvas</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/H49084030C"><img src="images/design/imagemCursoAcelera.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/H49084030C"><img src="images/design/imagemCursoAceleraa.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/H49084030C">Acelera Design</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
@@ -67,7 +67,7 @@
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/Y49084339W">Designer Na Prática</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/F49084450C"><img src="images/design/imagemCursoKit.jpeg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/F49084450C"><img src="images/design/imagemCursoKit.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/F49084450C">Kit do Designer</a></div>
 						</div>
 						<div class="boxGaleriaMargem">

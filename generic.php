@@ -7,7 +7,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Generic - Intensify by TEMPLATED</title>
+		<title>TopCursos - A melhor plataforma de recomendação de cursos</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="shortcut icon" href="images/favicon.ico">
@@ -23,7 +23,7 @@
 				</nav>
 				<a href="inicio.php" class="logo">TopCursos</a>
 				<nav class="right">
-					<a href="#" class="button alt">Log in</a>
+					<a href="logout.php" class="button alt">Sair</a>
 				</nav>
 			</header>
 
@@ -43,22 +43,16 @@
 			<section id="main" class="wrapper">
 				<div class="inner">
 					<header class="align-center">
-						<h1>Generic Page</h1>
-						<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+						<h1>Muito Obrigado !</h1>
+						<p>Agradecemos ao professor  Me. Rodrigo Elias pela oportunidade de produzir um projeto desta  magnitude e evoluir nossas habilidades de trabalho em grupo e nos preparar para o mercado de trabalho</p>
+						<p>Nossa Equipe:</p>
+						<img class="image fit" src="images/equipe.jpg" alt="equipe">
 					</header>
-					<div class="image fit">
-						<img src="images/pic05.jpg" alt="" />
-					</div>
-					<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-					<p> Aenean iaculis, neque sed pretium egestas, nunc lacus tempus enim, nec tincidunt urna massa a libero. Aenean mattis bibendum est, a pharetra elit. Morbi commodo lectus quis blandit mattis. Cras pharetra quam quis tincidunt tempus. Donec a sem magna. Nullam purus purus, fermentum id lorem sit amet, porta elementum neque. Proin vulputate metus ac faucibus luctus.</p>
-					<p>Ut congue purus sed elit consectetur tempus. Duis convallis, quam quis pellentesque vestibulum, tellus arcu hendrerit ante, sed dictum felis nisl vitae magna. Integer et sapien a erat molestie tempor. Cras est odio, suscipit id porttitor id, mollis et ligula. Curabitur molestie mi molestie accumsan faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer porta malesuada pellentesque. Morbi imperdiet dictum velit, eu volutpat sem posuere non. Fusce ullamcorper gravida velit, sed sollicitudin libero iaculis id. Ut eu neque non odio fringilla faucibus nec quis neque. Quisque et nisi fermentum, tincidunt libero a, condimentum ligula. Quisque ultrices blandit lacinia. Nulla velit lorem, placerat nec eros ut, fermentum pharetra dolor. Maecenas arcu ipsum, mattis et suscipit sed, convallis nec lectus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; </p>
-				</div>
 			</section>
 
 		<!-- Footer -->
 			<footer id="footer">
 				<div class="inner">
-					<h2>Get In Touch</h2>
 					<ul class="actions">
 						<li class="mousezinho"><span class="icon fa-phone"></span>(00) 0000-0000</li>
 						<li class="mousezinho"><span class="icon fa-envelope"></span> familia.topcursos@gmail.com</li>

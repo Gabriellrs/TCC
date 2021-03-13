@@ -50,7 +50,7 @@
 					</header>
 					<div class="galeria">
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/X49083867W"><img src="images/negocios/imagemCursoEmpresario.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/X49083867W"><img src="images/negocios/imagemCursoEmpresarioo.jpg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/X49083867W">Empresários da Moda</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
