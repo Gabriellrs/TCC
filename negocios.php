@@ -9,6 +9,7 @@
 		<title>TopCursos - A melhor plataforma de recomendação de cursos</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="shortcut icon" href="images/favicon.ico">
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="assets/css/inicio.css">
 		

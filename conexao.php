@@ -3,9 +3,9 @@
     session_start();
 
 $host = "localhost";
-$user = "root";
-$password = "";
-$database = "bda_tc";
+$user = "id16319065_root";
+$password = "Ma_ma_c0roger";
+$database = "id16319065_bda_tc";
 $conexao = mysqli_connect($host, $user, $password, $database);
 
 if (!$conexao){

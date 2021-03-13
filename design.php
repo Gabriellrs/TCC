@@ -9,6 +9,7 @@
 		<title>TopCursos - A melhor plataforma de recomendação de cursos</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="shortcut icon" href="images/favicon.ico">
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="assets/css/inicio.css">
 		
@@ -50,27 +51,27 @@
 					</header>
 					<div class="galeria">
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/R49083802T"><img src="images/design/ImagemCursoDesignCanvas.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/R49083802T"><img src="images/design/imagemCursoDesignCanvas.jpg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/R49083802T">Design Canvas</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/H49084030C"><img src="images/design/ImagemCursoAcelera.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/H49084030C"><img src="images/design/imagemCursoAcelera.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/H49084030C">Acelera Design</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/F49084249D"><img src="images/design/ImagemCursoBig.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/F49084249D"><img src="images/design/imagemCursoBig.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/F49084249D">Big Pack Designer</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/Y49084339W"><img src="images/design/ImagemCursoDesign.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/Y49084339W"><img src="images/design/imagemCursoDesign.jpg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/Y49084339W">Designer Na Prática</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/F49084450C"><img src="images/design/ImagemCursoKit.jpeg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/F49084450C"><img src="images/design/imagemCursoKit.jpeg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/F49084450C">Kit do Designer</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/I49084577V"><img src="images/design/ImagemCursoLogo.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/I49084577V"><img src="images/design/imagemCursoLogo.jpg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/I49084577V">Logo e Grid</a></div>
 						</div>
 					</div>

@@ -1,7 +1,6 @@
 <?php 
+ob_start();
 include_once("conexao.php");
-
-// session_start();
 
 if(isset($_POST['logar'])):
     $email=$_POST['email'];
@@ -11,14 +10,15 @@ if(isset($_POST['logar'])):
             $_SESSION['email'] = $email;
             $_SESSION['senha'] = $senha;  
             header('location:inicio.php');
-        exit;
+        exit();
     }
     else{
         unset ($_SESSION['email']);
         unset ($_SESSION['senha']);
         header('location:erro.php');
-    exit;
+    exit();
     }
 endif;
 mysqli_close($conexao);
+ob_end_flush();
 ?>

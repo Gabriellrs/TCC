@@ -9,6 +9,7 @@
 		<title>TopCursos - A melhor plataforma de recomendação de cursos</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="shortcut icon" href="images/favicon.ico">
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="assets/css/inicio.css">
 		
@@ -49,27 +50,27 @@
 					</header>
 					<div class="galeria">
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/O49086001I"><img src="images/outros/ImagemCursoPoker.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/O49086001I"><img src="images/outros/imagemCursoPoker.jpg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/O49086001I">Poker</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/K49086325U"><img src="images/outros/ImagemCursoViolao.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/K49086325U"><img src="images/outros/imagemCursoViolao.jpg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/K49086325U">Violão</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/O49086806E"><img src="images/outros/ImagemCursoSugar.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/O49086806E"><img src="images/outros/imagemCursoSugar.jpg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/O49086806E">Sugar Baby</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/N49086964Q"><img src="images/outros/ImagemCursoInfluencer.jpg" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/N49086964Q"><img src="images/outros/imagemCursoInfluencer.jpg" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/N49086964Q">Influencer</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/V49087207Y"><img src="images/outros/ImagemCursoMarketing.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/V49087207Y"><img src="images/outros/imagemCursoMarketing.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/V49087207Y">Marketing Digital</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/T49087484P"><img src="images/outros/ImagemCursoEcommerce.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/T49087484P"><img src="images/outros/imagemCursoEcommerce.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/T49087484P">Ecommerce</a></div>
 						</div>
 					</div>

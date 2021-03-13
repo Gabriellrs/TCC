@@ -9,6 +9,7 @@
 		<title>TopCursos - A melhor plataforma de recomendação de cursos</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="shortcut icon" href="images/favicon.ico">
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="assets/css/inicio.css">
 		
@@ -49,27 +50,27 @@
 					</header>
 					<div class="galeria">
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/D49035622C"><img src="images/ti/ImagemCursoPython2.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/D49035622C"><img src="images/ti/imagemCursoPython2.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/D49035622C">Python</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/G49080219N"><img src="images/ti/ImagemCursoHtml5.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/G49080219N"><img src="images/ti/imagemCursoHtml5.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/G49080219N">HTML5</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/A49080655V"><img src="images/ti/ImagemCursoLogica.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/A49080655V"><img src="images/ti/imagemCursoLogica.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/A49080655V">L. Programação</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/X49081026J"><img src="images/ti/ImagemCursoFull.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/X49081026J"><img src="images/ti/imagemCursoFull.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/X49081026J">Full Stack</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/S49081318S"><img src="images/ti/ImagemCursoNode.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/S49081318S"><img src="images/ti/imagemCursoNode.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/S49081318S">Node Js</a></div>
 						</div>
 						<div class="boxGaleriaMargem">
-							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/A49081508U"><img src="images/ti/ImagemCursoArduino.png" class="fotoCategoria"></a></div>
+							<div class="boxGaleria"><a target="self_" href="https://go.hotmart.com/A49081508U"><img src="images/ti/imagemCursoArduino.png" class="fotoCategoria"></a></div>
 							<div class="boxGaleriaTexto"><a target="self_" href="https://go.hotmart.com/A49081508U">Arduino</a></div>
 						</div>
 					</div>
