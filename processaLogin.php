@@ -16,7 +16,7 @@ if(isset($_POST['logar'])):
     else{
         unset ($_SESSION['email']);
         unset ($_SESSION['senha']);
-        header('location:index.html');
+        header('location:erro.php');
     exit;
     }
 endif;

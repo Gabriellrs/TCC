@@ -4,7 +4,6 @@
     if(isset($_SESSION['email']) && !empty($_SESSION['email'])){ 
 
 ?>
-
 <!DOCTYPE HTML>
 <html lang="pt-br">
 	<head>
