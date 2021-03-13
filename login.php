@@ -32,8 +32,8 @@
 			<footer id="footer">
 				<div class="inner">
 					<ul class="actions">
-						<li><span class="icon fa-phone"></span> <a href="#">(000) 000-0000</a></li>
-						<li><span class="icon fa-envelope"></span> <a href="#">familia.topcursos@gmail.com</a></li>
+						<li class="mousezinho"><span class="icon fa-phone"></span>(00) 0000-0000</li>
+						<li class="mousezinho"><span class="icon fa-envelope"></span> familia.topcursos@gmail.com</li>
 					</ul>
 				</div>
 			</footer>
