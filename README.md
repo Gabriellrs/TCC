@@ -1,5 +1,12 @@
-# TCC
+# Vitrine de Cursos - Projeto de Conclusão do Curso Técnico em TI
 
-Este foi um projeto realizado para conclusão do curso técnico em TI pelo Instituto Federal Goiano, a proposta foi uma espécie de vitrine de cursos, onde quem comprasse proporciona uma comissão para o site. O projeto foi feito em html, css, js, php e sql. Infelizmente como o plano de domínio e hospedagem eram gratuitos o site não está mais no ar.
+Este projeto foi desenvolvido como parte do trabalho de conclusão do curso técnico em TI pelo Instituto Federal Goiano. A proposta era criar uma **vitrine de cursos online**, onde os usuários pudessem adquirir cursos e, em contrapartida, uma comissão seria gerada para o site. 
 
-Link: https://topcursosnet.000webhostapp.com (Descontinuado)
+O sistema foi implementado utilizando as seguintes tecnologias:  
+- **Frontend:** HTML, CSS e JavaScript  
+- **Backend:** PHP  
+- **Banco de Dados:** SQL  
+
+Infelizmente, o site não está mais no ar devido à limitação do plano de hospedagem gratuito utilizado na época. No entanto, o repositório contém todo o código-fonte necessário para execução local ou em outro servidor. 
+
+Sinta-se à vontade para explorar o projeto! 😊
